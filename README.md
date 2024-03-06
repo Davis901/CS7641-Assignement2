@@ -1,5 +1,5 @@
 # CS7641-Assignement2
-Github: https://github.com/Davis901/CS7641-Assignement2/edit/main/
+Github:[ https://github.com/Davis901/CS7641-Assignement2/edit/main/](https://github.com/Davis901/CS7641-Assignement2.git)
 
 
 This project consists of two parts: Randomized Optimizationi and Tuning Neural Networks.
