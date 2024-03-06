@@ -1,4 +1,6 @@
 # CS7641-Assignement2
+Github: https://github.com/Davis901/CS7641-Assignement2/edit/main/
+
 
 This project consists of two parts: Randomized Optimizationi and Tuning Neural Networks.
 It takes significant amount of time to run due to probelm complexity and loops in some parts.
@@ -26,5 +28,11 @@ Rest of modules are for depedencies.
 - -> performed optimization with three different problems
 - randomized_optimization_hyperparameter_tune.ipynb
 - --> Tuning process of hyperparameters for algorithms with loss curve.
+
+#Part 2: Tuning Neural Networks
+-neural_networks.ipynb
+--> Perform tuning with optimization algorithm
+-nerual_networks_hyperparameter_tune.ipynb
+--> Hyperparameter tuning process 
 
   
